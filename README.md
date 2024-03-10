@@ -4,6 +4,7 @@ The project focuses on developing an AI platform that can analyze and provide va
 About dataset:
 the important features are (date,country,temperature,ConfirmedCases,Fatalities,slp,dewp,rh,wdsp) 
 **link to dataset on kaggle is: (https://www.kaggle.com/datasets/davidbnn92/weather-data-for-covid19-data-analysis)
+in our project we use the (training_data_with_weather_info_week_1) file
 
 Key Components:
 1. Data Cleaning and Preprocessing: Clean, normalize, and preprocess the collected data to ensure consistency and quality for analysis.
